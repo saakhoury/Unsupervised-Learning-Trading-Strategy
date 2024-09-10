@@ -1,6 +1,7 @@
 <h5> Unsupervised Learning-Based Quant Trading Model | Python, Pandas, NumPy, YFinance, NLTK, Scikit-Learn</h5>
 
 <h5>
+  
 • Applied K-Means Clustering & train-test split to group SP500 stocks by features, improving risk-adjusted returns by 15%.
 
 • Optimized portfolio with Efficient Frontier analysis, achieving a Sharpe ratio 20% higher than market benchmark.
